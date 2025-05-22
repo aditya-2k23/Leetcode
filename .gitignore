@@ -1,1 +1,21 @@
-.vscode
+# Python
+*.pyc
+pycache/
+*.pyo
+*.pyd
+
+# Java
+*.class
+*.jar
+
+# C++
+*.o
+*.exe
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Misc
+.DS_Store
