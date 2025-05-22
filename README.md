@@ -25,7 +25,7 @@ This repository serves as my personal learning journey through algorithmic probl
   - `README.md`: Problem description, approach, and complexity analysis.
   - `solution.<extension>`: Solution code in a specific programming language (e.g., `solution.py` for Python).
   - `tests/`: Optional test cases or scripts to validate solutions.
-- The `templates/` folder contains reusable templates for problem READMEs and solution files.
+- The [templates](templates) folder contains reusable templates for problem READMEs and solution files.
 - The root `README.md` (this file) provides an overview of the repository.
 
 ## How to Use
