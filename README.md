@@ -43,10 +43,13 @@ Below is a list of problems solved in this repository (to be updated as problems
 - [Problem 1: Two Sum](P-1-two-sum)
 - *(Add more problems as they are solved)*
 
-Connect With Me
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Connect With Me
 - LinkedIn: [/in/aditya-2k23](https://www.linkedin.com/in/aditya-2k23)
 - GitHub: [aditya-2k23](https://www.github.com/aditya-2k23)
+- X(Twitter): [Tema_roon](https://www.x.com/Tema_roon)
 - Email: [holaaditya123@gmail.com](mailto:holaaditya123@gmail.com)
 
 ---
