@@ -22,14 +22,17 @@ _(Explain your thought process and approach to solving the problem. Include key 
 
 - **Language**: _(e.g., Python, Java, C++)_
 - **File**: [solution.<extension>](solution.<extension>)
-- **Time Complexity**: _(e.g., O(n))_
-- **Space Complexity**: _(e.g., O(1))_
 
 _(Repeat for each language solution in the folder)_
 
 ## Notes
 
 _(Any additional insights, challenges faced, or alternative approaches)_
+
+### Complexity Analysis
+
+- **Time Complexity**: _(O(n), O(log n), etc.)_
+- **Space Complexity**: _(O(1), O(n), etc.)_
 
 ## Test Cases
 
