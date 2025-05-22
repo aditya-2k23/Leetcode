@@ -88,7 +88,7 @@ Follow the instructions in the test template files to run your tests:
 
   ```bash
   cd tests
-  g++ test.cpp ../solution.cpp -o test && test
+  g++ test.cpp ../solution.cpp -o test; test
   ```
 
 - **Java**:
