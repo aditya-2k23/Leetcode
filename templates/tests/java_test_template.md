@@ -16,7 +16,7 @@ java -cp ".;tests" test
 ---
 
 ```java
-public class Test {
+public class test {
     static void printResult(int[] result) {
         System.out.print("[");
         for (int i = 0; i < result.length; ++i) {
@@ -29,13 +29,15 @@ public class Test {
     }
 
     static boolean testFunction(int[] input1, int input2, int[] expected, int testNumber) {
-        Solution sol = new Solution();
+        solution sol = new solution(); // This might give red squiggles lines in some IDEs, but it will work when you run the code.
         int[] result = sol.methodName(input1, input2); // Replace with actual function name
 
         System.out.print("Test Case " + testNumber + ": ");
+        System.out.print("Input1: " + input1 + " ");
+        System.out.print("Input2: " + input2 + " ");
         boolean passed = java.util.Arrays.equals(result, expected);
         if (passed) {
-            System.out.println("Passed");
+            System.out.println("\nPassed"); // Add tabs (\t) if needed for better formatting
             return true;
         } else {
             System.out.print("Failed: Expected ");

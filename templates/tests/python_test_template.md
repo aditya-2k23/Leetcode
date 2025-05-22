@@ -33,8 +33,10 @@ def test_function(input1, input2, expected, test_number):
     result = sol.methodName(input1, input2)  # Replace with actual function name
 
     print(f"Test Case {test_number}: ", end="")
+    print(f"Input1: {input1} ", end="")
+    print(f"Input2: {input2} ", end="")
     if result == expected:
-        print("Passed")
+        print("Passed") # Add tabs (\t) if needed for better formatting
         return True
     else:
         print("Failed: Expected ", end="")

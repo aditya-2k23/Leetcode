@@ -32,12 +32,14 @@ bool testFunction(const vector<int> &input1, int input2, const vector<int> &expe
     vector<int> result = sol.methodName(input1, input2);  // Replace with actual function
 
     cout << "Test Case " << testNumber << ": ";
+    cout << "Input1: " << input1 << " ";
+    cout << "Input2: " << input2 << " ";
     if (result == expected) {
         printResult(result);
         cout << " ";
         printResult(expected);
         cout << " ";
-        cout << "Passed\n";
+        cout << "Passed\n"; // Add tabs (\t) if needed for better formatting
         return true;
     } else {
         cout << "Failed: Expected ";
