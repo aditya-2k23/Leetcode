@@ -14,7 +14,9 @@ void printResult(const vector<int> &result) {
 
 bool testTwoSum(const vector<int> &nums, int target, const vector<int> &expected, int testNumber) {
     Solution sol;
+    Solution::Brute brute;
     vector<int> result = sol.twoSum(nums, target);
+    // vector<int> result = brute.twoSum(nums, target); // Uncomment this line to test the brute force solution (Comment out the above line)
 
     cout << "Test Case " << testNumber << ":\n";
     if (result == expected) {

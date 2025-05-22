@@ -69,6 +69,11 @@ The most efficient way to solve this problem is to use a hash map to store numbe
 - **Language**: Python
 - **File**: [solution.py](solution.py)
 
+---
+
+- **Language**: Java
+- **File**: [solution.java](solution.java)
+
 ## Notes
 
 - A brute-force approach (checking all pairs) would take O(n²) time, which is less efficient.
