@@ -7,6 +7,8 @@ Welcome to my LeetCode Notes repository! This repository contains my solutions a
 Below is a list of problems solved in this repository (to be updated as problems are added):
 
 - [Problem 1: Two Sum](P-1-two-sum)
+- [Problem 9: Palindrome Number](P-9-palindrome-number)
+- [Problem 13: Roman to Integer](P-13-roman-to-integer)
 - _(Add more problems as they are solved)_
 
 ## Purpose
@@ -25,7 +27,7 @@ This repository serves as my personal learning journey through algorithmic probl
   - `README.md`: Problem description, approach, and complexity analysis.
   - `solution.<extension>`: Solution code in a specific programming language (e.g., `solution.py` for Python).
   - `tests/`: Optional test cases or scripts to validate solutions.
-- The [templates](templates) folder contains reusable templates for problem READMEs and solution files.
+- The [templates](templates) folder contains reusable templates for problem READMEs and solution, tests files.
 - The root `README.md` (this file) provides an overview of the repository.
 
 ## How to Use
@@ -53,6 +55,7 @@ To clone this repository:
 
 ```bash
 git clone https://github.com/aditya-2k23/leetcode.git
+cd leetcode
 ```
 
 ## License
