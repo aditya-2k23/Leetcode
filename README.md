@@ -37,6 +37,8 @@ This repository serves as my personal learning journey through algorithmic probl
 3. Explore solutions in different languages (e.g., Python, Java) within each problem folder.
 4. Use the `templates/` folder to create new problem folders with consistent formatting.
 
+[Visit the Wiki for more details](https://github.com/aditya-2k23/leetcode/wiki)
+
 ## Contributing
 
 While this is primarily my personal learning repository, feel free to:
