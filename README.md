@@ -9,6 +9,7 @@ Below is a list of problems solved in this repository (to be updated as problems
 - [Problem 1: Two Sum](P-1-two-sum)
 - [Problem 9: Palindrome Number](P-9-palindrome-number)
 - [Problem 13: Roman to Integer](P-13-roman-to-integer)
+- [Problem 14: Longest Common Prefix](P-14-longest-common-prefix)
 - _(Add more problems as they are solved)_
 
 ## Purpose
