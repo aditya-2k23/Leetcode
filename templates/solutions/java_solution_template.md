@@ -6,7 +6,7 @@
  * Date Solved: [Date]
 */
 
-public class Solution {
+public class solution {
     public <return_type> <function_name>(<parameters>) {
         // Your code here
         return <result>;
