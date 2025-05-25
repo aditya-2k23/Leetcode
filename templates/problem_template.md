@@ -50,6 +50,6 @@ _(Optional: Add diagrams, pseudocode, or references to related problems)_
 
 ---
 
-- **Solved on**: _[Date]_
-- **Time taken**: _[Duration]_
-- **Attempts**: _[Number of attempts]_
+> **Solved on**: _[Date]_ |
+> **Time taken**: _[Duration]_ |
+> **Attempts**: _[Number of attempts]_
