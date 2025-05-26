@@ -13,6 +13,11 @@ Welcome to my LeetCode Notes repository! This repository contains my solutions a
 
 ## Problem List
 
+Browse all problems with their difficulty levels (Easy, Medium, Hard) in the [Problem Index](https://github.com/aditya-2k23/leetcode/wiki/Problem-Index).
+This Wiki page lists problem numbers, titles, difficulties, and links to solution folders, making it easy to find problems by category or difficulty. *_**Recommended**_
+
+Or
+
 Below is a list of problems solved in this repository (to be updated as problems are added):
 
 - [Problem 1: Two Sum](P-1-two-sum)
