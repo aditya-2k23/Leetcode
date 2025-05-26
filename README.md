@@ -6,7 +6,6 @@
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-orange)
 [![Wiki](https://img.shields.io/badge/Wiki-Available-blueviolet)](https://github.com/aditya-2k23/leetcode/wiki)
 [![Discussions](https://img.shields.io/badge/Discussions-Open-blue)](https://github.com/aditya-2k23/leetcode/discussions)
-![Contributors](https://img.shields.io/github/contributors/aditya-2k23/leetcode)
 ![Last Commit](https://img.shields.io/github/last-commit/aditya-2k23/leetcode)
 
 Welcome to my LeetCode Notes repository! This repository contains my solutions and detailed explanations for LeetCode problems. Each problem has its own folder with solutions in multiple programming languages, along with a README explaining the problem, approach, and complexity analysis.
