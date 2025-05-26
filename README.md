@@ -13,13 +13,14 @@ Welcome to my LeetCode Notes repository! This repository contains my solutions a
 ## Problem List
 
 Browse all problems with their difficulty levels (Easy, Medium, Hard) in the [Problem Index](https://github.com/aditya-2k23/leetcode/wiki/Problem-Index).
-This Wiki page lists problem numbers, titles, difficulties, and links to solution folders, making it easy to find problems by category or difficulty. *_**Recommended**_
+This Wiki page lists problem numbers, titles, difficulties, and links to solution folders, making it easy to find problems by category or difficulty. \*_**Recommended**_
 
 Or
 
-Below is a list of problems solved in this repository (to be updated as problems are added):
+Below is a list of problems solved in this repository:
 
 - [Problem 1: Two Sum](P-1-two-sum)
+- [Problem 7: Reverse Integer](P-7-reverse-integer/)
 - [Problem 9: Palindrome Number](P-9-palindrome-number)
 - [Problem 13: Roman to Integer](P-13-roman-to-integer)
 - [Problem 14: Longest Common Prefix](P-14-longest-common-prefix)
