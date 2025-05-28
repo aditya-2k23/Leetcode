@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/Repository-blue?logo=github)](https://github.com/aditya-2k23/leetcode)
 [![License](https://img.shields.io/badge/LICENSE-MIT-yellow?logo=license.svg)](https://github.com/aditya-2k23/leetcode/blob/main/LICENSE)
-![Problems Solved](https://img.shields.io/badge/Solved-4-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Solved-5-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-orange)
 [![Wiki](https://img.shields.io/badge/Wiki-Available-blueviolet)](https://github.com/aditya-2k23/leetcode/wiki)
 [![Discussions](https://img.shields.io/badge/Discussions-Open-blue)](https://github.com/aditya-2k23/leetcode/discussions)
