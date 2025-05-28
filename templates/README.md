@@ -4,7 +4,7 @@ This folder contains templates for organizing your LeetCode problem solutions an
 
 ## Template Structure
 
-```
+```plaintext
 templates/
 │
 ├── problem_template.md       # Template for documenting the problem and solution approach
@@ -92,6 +92,7 @@ Follow the instructions in the test template files to run your tests:
   ```
 
 - **Java**:
+
   ```bash
   # ! Change directory to the problem folder (not in the tests folder)!
   javac .\Solution.java tests/test.java
