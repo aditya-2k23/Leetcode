@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/Repository-blue?logo=github)](https://github.com/aditya-2k23/leetcode)
 [![License](https://img.shields.io/badge/LICENSE-MIT-yellow?logo=license.svg)](https://github.com/aditya-2k23/leetcode/blob/main/LICENSE)
-![Problems Solved](https://img.shields.io/badge/Solved-7-brightgreen) <!-- Update this count as you solve more problems -->
+![Problems Solved](https://img.shields.io/badge/Solved-8-brightgreen) <!-- Update this count as you solve more problems -->
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-orange)
 [![Wiki](https://img.shields.io/badge/Wiki-Available-blueviolet)](https://github.com/aditya-2k23/leetcode/wiki)
 [![Discussions](https://img.shields.io/badge/Discussions-Open-blue)](https://github.com/aditya-2k23/leetcode/discussions)
@@ -25,6 +25,7 @@ Below is a list of problems solved in this repository:
 - [Problem 13: Roman to Integer](problems/P-13-roman-to-integer)
 - [Problem 14: Longest Common Prefix](problems/P-14-longest-common-prefix)
 - [Problem 20: Valid Parentheses](problems/P-20-valid-parentheses)
+- [Problem 21: Merge Two Sorted Lists](problems/P-21-merge-two-sorted-lists)
 - [Problem 35: Search Insert Position](problems/P-35-search-insert-position)
 - _(Add more problems as they are solved)_
 
@@ -39,7 +40,7 @@ This repository serves as my personal learning journey through algorithmic probl
 
 ## Directory Structure
 
-- Each problem is organized in a folder named `P-<number>-<name>` (e.g., `P-1-two-sum`).
+- Each problem is organized in a folder named `P-<number>-<name>` (e.g., [`P-1-two-sum`](problems/P-1-two-sum)).
 - Inside each problem folder:
   - `README.md`: Problem description, approach, and complexity analysis.
   - `solution.<extension>`: Solution code in a specific programming language (e.g., `solution.py` for Python).
