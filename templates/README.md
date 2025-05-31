@@ -27,8 +27,8 @@ templates/
 For each new problem, create a folder named with the problem number and title (e.g., `P-1-two-sum`):
 
 ```bash
-mkdir "P-<number>-<problem-name>"
-cd "P-<number>-<problem-name>"
+mkdir "problems/P-<number>-<problem-name>"
+cd "problems/P-<number>-<problem-name>"
 ```
 
 ### 2. Using the Problem Template
@@ -36,8 +36,8 @@ cd "P-<number>-<problem-name>"
 - Copy the problem template to your new problem folder:
 
   ```bash
-  cd "P-<number>-<problem-name>"
-  copy "..\templates\problem_template.md" "README.md"
+  cd "problems/P-<number>-<problem-name>"
+  copy "..\..\templates\problem_template.md" "README.md"
   ```
 
 - Edit the README.md file to fill in:

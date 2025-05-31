@@ -8,7 +8,7 @@
 [![Discussions](https://img.shields.io/badge/Discussions-Open-blue)](https://github.com/aditya-2k23/leetcode/discussions)
 ![Last Commit](https://img.shields.io/github/last-commit/aditya-2k23/leetcode)
 
-Welcome to my LeetCode Notes repository! This repository contains my solutions and detailed explanations for LeetCode problems. Each problem has its own folder with solutions in multiple programming languages, along with a README explaining the problem, approach, and complexity analysis.
+Welcome to my LeetCode Notes repository! This repository contains my solutions and detailed explanations for LeetCode problems. Each problem has its own folder within the problems directory with solutions in multiple programming languages, along with a README explaining the problem, approach, and complexity analysis.
 
 ## Problem List
 
@@ -19,13 +19,13 @@ Or
 
 Below is a list of problems solved in this repository:
 
-- [Problem 1: Two Sum](P-1-two-sum)
-- [Problem 7: Reverse Integer](P-7-reverse-integer)
-- [Problem 9: Palindrome Number](P-9-palindrome-number)
-- [Problem 13: Roman to Integer](P-13-roman-to-integer)
-- [Problem 14: Longest Common Prefix](P-14-longest-common-prefix)
-- [Problem 20: Valid Parentheses](P-20-valid-parentheses)
-- [Problem 35: Search Insert Position](P-35-search-index-position)
+- [Problem 1: Two Sum](problems/P-1-two-sum)
+- [Problem 7: Reverse Integer](problems/P-7-reverse-integer)
+- [Problem 9: Palindrome Number](problems/P-9-palindrome-number)
+- [Problem 13: Roman to Integer](problems/P-13-roman-to-integer)
+- [Problem 14: Longest Common Prefix](problems/P-14-longest-common-prefix)
+- [Problem 20: Valid Parentheses](problems/P-20-valid-parentheses)
+- [Problem 35: Search Insert Position](problems/P-35-search-insert-position)
 - _(Add more problems as they are solved)_
 
 ## Purpose
@@ -49,7 +49,7 @@ This repository serves as my personal learning journey through algorithmic probl
 
 ## How to Use
 
-1. Navigate to a problem folder (e.g., `P-1-two-sum`) to view the problem description and solutions.
+1. Navigate to a problem folder (e.g., [`P-1-two-sum`](problems/P-1-two-sum)) to view the problem description and solutions.
 2. Check the `README.md` in each problem folder for a detailed explanation of the approach and complexity.
 3. Explore solutions in different languages (e.g., Python, Java) within each problem folder.
 4. Use the `templates/` folder to create new problem folders with consistent formatting.
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy coding! 🚀
 
-> _Last updated: May 30, 2025_
+> _Last updated: May 31, 2025_
