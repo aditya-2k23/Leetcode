@@ -73,7 +73,7 @@ The final sorted array should not be returned by the function, but instead be st
 
 ## Solution
 
-- **Language**: _(e.g., Python, Java, C++)_
+- **Language**: C++
 - **File**: [solution.cpp](solution.cpp)
 
 ## Notes
