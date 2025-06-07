@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/Repository-blue?logo=github)](https://github.com/aditya-2k23/leetcode)
 [![License](https://img.shields.io/badge/LICENSE-MIT-yellow?logo=license.svg)](https://github.com/aditya-2k23/leetcode/blob/main/LICENSE)
-![Problems Solved](https://img.shields.io/badge/Solved-13-brightgreen) <!-- Update this count as you solve more problems -->
+![Problems Solved](https://img.shields.io/badge/Solved-14-brightgreen) <!-- Update this count as you solve more problems -->
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-orange)
 [![Wiki](https://img.shields.io/badge/Wiki-Available-blueviolet)](https://github.com/aditya-2k23/leetcode/wiki)
 [![Discussions](https://img.shields.io/badge/Discussions-Open-blue)](https://github.com/aditya-2k23/leetcode/discussions)
@@ -30,6 +30,7 @@ Below is a list of problems solved in this repository:
 - [Problem 27: Remove Element](problems/P-27-remove-element)
 - [Problem 35: Search Insert Position](problems/P-35-search-insert-position)
 - [Problem 88: Merge Sorted Array](problems/P-88-merge-sorted-array)
+- [Problem 206: Reverse Linked List](problems/P-206-reverse-linked-list)
 - [Problem 704: Binary Search](problems/P-704-binary-search)
 - [Problem 744: Find Smallest Letter Greater Than Target](problems/P-744-find-smallest-letter-greater-than-target)
 - _(Add more problems as they are solved)_
@@ -100,4 +101,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy coding! 🚀
 
-> _Last updated: June 6, 2025_
+> _Last updated: June 7, 2025_
