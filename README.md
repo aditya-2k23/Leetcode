@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/Repository-blue?logo=github)](https://github.com/aditya-2k23/leetcode)
 [![License](https://img.shields.io/badge/LICENSE-MIT-yellow?logo=license.svg)](https://github.com/aditya-2k23/leetcode/blob/main/LICENSE)
-![Problems Solved](https://img.shields.io/badge/Solved-25-brightgreen) <!-- Update this count as you solve more problems -->
+![Problems Solved](https://img.shields.io/badge/Solved-26-brightgreen) <!-- Update this count as you solve more problems -->
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-orange)
 [![Wiki](https://img.shields.io/badge/Wiki-Available-blueviolet)](https://github.com/aditya-2k23/leetcode/wiki)
 [![Discussions](https://img.shields.io/badge/Discussions-Open-blue)](https://github.com/aditya-2k23/leetcode/discussions)
@@ -36,6 +36,7 @@ Below is a list of problems solved in this repository:
 - [Problem 70: Climbing Stairs](problems/P-70-climbing-stairs)
 - [Problem 83: Remove Duplicates from Sorted List](problems/P-83-remove-duplicates-from-sorted-list)
 - [Problem 88: Merge Sorted Array](problems/P-88-merge-sorted-array)
+- [Problem 94: Binary Tree Inorder Traversal](problems/P-94-binary-tree-inorder-traversal)
 - [Problem 141: Linked List Cycle](problems/P-141-linked-list-cycle)
 - [Problem 189: Rotate Array](problems/P-189-rotate-array)
 - [Problem 202: Happy Number](problems/P-202-happy-number)
@@ -112,4 +113,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy coding! 🚀
 
-> _Last updated: July 05, 2025_
+> _Last updated: July 06, 2025_
